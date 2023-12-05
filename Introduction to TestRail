@@ -1,1 +1,14 @@
-A
+TestRail is a web-based test case management tool. It is used by QA engineers, Developers, and Team leads to manage, track, organize software testing efforts.
+TestRail allows team members to design test case, organize test suits, execute test runs, and track their results, all from a modern and ready to use web interface. 
+
+ - Manage test cases, suites, and test runs:
+The traditional way of managing and documenting test cases on paper, in wikis, bug tracking tools, or general document management systems quickly reaches its limits. TestRail enables you to create, manage, and organize test cases and suites within an optimized user interface and application structure.
+
+  - Boost testing productivity:
+TestRail’s to-do lists, filters, and email notifications help coordinate test runs and increase the productivity and responsibility of testers. The goal is to make sure that every team member knows their tasks at all times and that team leads can assign new tasks to testers depending on their workload.
+
+  - Real-time insights into your testing progress:
+To make important project decisions, it is critical to have access to detailed information about the testing progress and test results. Questions such as “What percent of a test run have we successfully completed?”, “How are we progressing on the upcoming milestone?” or “Which tests have been executed in the past 24 hours?” can only be answered efficiently by using a comprehensive test case management software such as TestRail, and TestRail makes these details readily available.
+
+- Test management at scale:
+The organization and coordination of multiple parallel tests, be it for different projects or releases, is often complex and time-consuming. To not lose track of your testing efforts, TestRail helps you manage important software-specific data and structures such as project milestones, and makes it easy to integrate with bug tracking tools.
